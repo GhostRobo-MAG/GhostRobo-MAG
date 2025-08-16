@@ -1,5 +1,5 @@
 #  About Me:
-### Hey, I'm Alex <br><br>🔧 Ex-Automotive Supply Chain Project Manager turned Product Builder<br>Currently building CoinGrok, an AI-powered crypto analysis platform using OpenAI + Grok<br>Mission: Transition into Tech as a Full-Stack PM with a bias for execution<br><br>🔭 Projects<br><br>[CoinGrok-MVP](https://github.com/GhostRobo-MAG/CoinGrok-mvp)<br><br>    Sentiment + market analysis tool powered by xAI's Grok and OpenAI.<br>    <br><br>📈 My Transition Logs<br><br>🧠 I’m documenting my journey daily from zero coding experience to shipping a real SaaS app.<br>Want to follow along or collab? DM me<br><br>📬 Let’s Connect:<br><br> 
+### Hey, I'm Alex <br><br>🔧 Ex-Automotive Supply Chain Project Manager turned Product Builder<br>Currently building CoinGrok, an AI-powered crypto analysis platform using OpenAI + Grok<br>Mission: Transition into Tech as a Full-Stack PM with a bias for execution<br><br>🔭 Projects<br><br>[PluginMind](https://github.com/GhostRobo-MAG/PluginMind)<br><br>    Sentiment + market analysis tool powered by xAI's Grok and OpenAI.<br>    <br><br>📈 My Transition Logs<br><br>🧠 I’m documenting my journey daily from zero coding experience to shipping a real SaaS app.<br>Want to follow along or collab? DM me<br><br>📬 Let’s Connect:<br><br> 
 
 
 ## 🌐 Socials:
