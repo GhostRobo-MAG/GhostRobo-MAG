@@ -1,6 +1,6 @@
 #  About Me:
 ### Hey, I'm Alex <br><br>🔧 Ex-Automotive Supply Chain Project Manager turned Product Builder<br>Currently building PluginMind - a production-ready Full Stack template for AI-powered SaaS products.
-**It provides a secure, extensible foundation with generic AI processing, plugin-style service registry, production infrastructure, and 107+ automated tests.**<br>**Mission: Transition into Tech as a Full-Stack PM with a bias for execution**<br><br>🔭 **Projects**<br><br>**[PluginMind](https://github.com/GhostRobo-MAG/PluginMind)**<br><br> **PluginMind started as **CoinGrok**, a crypto analysis tool powered by AI.**  
+**It provides a secure, extensible foundation with generic AI processing, plugin-style service registry, production infrastructure, and 107+ automated tests.**<br>**Mission: Transition into Tech as a Full-Stack PM with a bias for execution**<br><br>🔭 **Projects**<br><br>**[PluginMind](https://github.com/GhostRobo-MAG/PluginMind)**<br><br> 🔧**Tools**<br><br>**[claude-agent-hive](https://github.com/GhostRobo-MAG/claude-agent-hive)**<br><br>**PluginMind started as **CoinGrok**, a crypto analysis tool powered by AI.**  
 **But during development, we realized the real value wasn’t in the crypto wrapper – it was in the **backend engine** we built.**
 .<br>    <br><br>📈 My Transition Logs<br><br>🧠 I’m documenting my journey daily from zero coding experience to shipping a real SaaS app.<br>Want to follow along or collab? DM me<br><br>📬 Let’s Connect:<br><br> 
 
